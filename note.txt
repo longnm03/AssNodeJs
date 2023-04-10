@@ -1,0 +1,5 @@
+Thêm sửa xóa product ,categories
+Xóa product xóa luôn được id của product trong categories
+Đăng ký, đăng nhập 
+Validate 
+Tìm kiếm product, categories
